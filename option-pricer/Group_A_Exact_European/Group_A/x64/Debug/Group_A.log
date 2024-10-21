@@ -1,0 +1,15 @@
+﻿  Equity.cpp
+  EuropeanOption.cpp
+  main.cpp
+C:\Users\anchi\Documents\Cpp Exercises\Level 9\Group_A_Exact_European\Group_A\main.cpp(217,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Matrix.cpp
+C:\Users\anchi\Documents\Cpp Exercises\Level 9\Group_A_Exact_European\Group_A\Matrix.cpp(64,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Mesh.cpp
+  MeshMatrixGenerator.cpp
+  Option.cpp
+  OptionMatrixPricer.cpp
+C:\Users\anchi\Documents\Cpp Exercises\Level 9\Group_A_Exact_European\Group_A\OptionMatrixPricer.cpp(27,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anchi\Documents\Cpp Exercises\Level 9\Group_A_Exact_European\Group_A\OptionMatrixPricer.cpp(46,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anchi\Documents\Cpp Exercises\Level 9\Group_A_Exact_European\Group_A\OptionMatrixPricer.cpp(65,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Group_A.vcxproj -> C:\Users\anchi\Documents\Cpp Exercises\Level 9\Group_A_Exact_European\x64\Debug\Group_A.exe
